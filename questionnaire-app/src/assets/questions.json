@@ -1,0 +1,41 @@
+[
+  {
+    "id": "q1",
+    "type": "text",
+    "text": "What is your name?",
+    "required": true
+  },
+  {
+    "id": "q2",
+    "type": "number",
+    "text": "How old are you?",
+    "required": true
+  },
+  {
+    "id": "q3",
+    "type": "dropdown",
+    "text": "What is your favorite color?",
+    "required": false,
+    "options": ["Red", "Blue", "Green", "Yellow"]
+  },
+  {
+    "id": "q4",
+    "type": "checkbox",
+    "text": "Which programming languages do you know?",
+    "required": false,
+    "options": ["JavaScript", "Python", "Java", "C++", "Ruby"]
+  },
+  {
+    "id": "q5",
+    "type": "radio",
+    "text": "How often do you exercise?",
+    "required": true,
+    "options": ["Daily", "A few times a week", "Once a week", "Rarely", "Never"]
+  },
+  {
+    "id": "q6",
+    "type": "longText",
+    "text": "Please describe your ideal work environment.",
+    "required": false
+  }
+]
