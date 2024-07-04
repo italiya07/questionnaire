@@ -7,3 +7,5 @@
 5. Develop a comprehensive admin panel for questionnaire management, user role assignment, and result analysis. This addition would significantly enhance the application's versatility and empower non-technical users to manage the system effectively.
 6. Establish CI/CD pipelines (i.e. GitHub Actions) to automate testing and deployment processes. This implementation would streamline development workflows, ensure code quality, and facilitate rapid, reliable updates to the production environment.
 7. Introduce timed mode for completing questionnaires and support one-time view only questions to enhance security and time-sensitivity of responses.
+8. Animated UI element
+9. Incorporate animated UI elements to improve navigation fluidity and overall user experience.
